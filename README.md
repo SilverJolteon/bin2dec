@@ -18,3 +18,8 @@ bin2dec is a simple binary to decimal converter for the 3DS.
 * Plans to also increase max number of bits
 * You can download the latest release here:
   https://github.com/SilverJolteon/bin2dec/releases
+
+## Screenshots
+
+<img src="https://cloud.githubusercontent.com/assets/22419034/25688580/9a1b8a8c-303d-11e7-94a2-647a0ec92201.png" width="200">   <img src="https://cloud.githubusercontent.com/assets/22419034/25688628/0fb56948-303e-11e7-95fa-d941262741a5.png" width="200">
+<img src="https://cloud.githubusercontent.com/assets/22419034/25688640/1b94f79c-303e-11e7-9057-902cd0d3f80e.png" width="200">   <img src="https://cloud.githubusercontent.com/assets/22419034/25688647/2601e0dc-303e-11e7-81eb-444ad48263de.png" width="200">
