@@ -13,6 +13,8 @@ bin2dec is a simple binary to decimal converter for the 3DS.
 
 ### Notes
 
-* This was made as a project for a C-Programming class and therefore is extremely basic
+* This was made as a project for a C-Programming class and therefore is extremely rough
+* Plans to fix screen flickering and also use the top screen instead of bottom
+* Plans to also increase max number of bits
 * You can download the latest release here:
   https://github.com/SilverJolteon/bin2dec/releases
